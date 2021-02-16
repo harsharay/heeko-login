@@ -6,7 +6,7 @@ import "./Login.css"
 
 const Login = () => {
 
-    const backendUrl = 'https://heeko-backend.herokuapp.com/'
+    const backendUrl = 'https://heeko-backend.herokuapp.com'
     const [inputData, setInputData] = useState({
         emailOrPhone: "",
         password: ""

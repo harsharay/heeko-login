@@ -4,13 +4,14 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter>
+    // <BrowserRouter>
       <div className="App">
-        <Switch>
-          <Route path="/" component={Login} exact/>
-        </Switch>
+        {/* <Switch> */}
+          {/* <Route path="/" component={Login} exact/> */}
+          <Login />
+        {/* </Switch> */}
       </div>
-    </BrowserRouter>
+    // </BrowserRouter>
   );
 }
 

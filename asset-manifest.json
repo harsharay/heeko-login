@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/heeko-login/static/css/main.933134cc.chunk.css",
+    "main.js": "/heeko-login/static/js/main.207f1af4.chunk.js",
+    "main.js.map": "/heeko-login/static/js/main.207f1af4.chunk.js.map",
+    "runtime-main.js": "/heeko-login/static/js/runtime-main.0bb18780.js",
+    "runtime-main.js.map": "/heeko-login/static/js/runtime-main.0bb18780.js.map",
+    "static/js/2.c0ab5aac.chunk.js": "/heeko-login/static/js/2.c0ab5aac.chunk.js",
+    "static/js/2.c0ab5aac.chunk.js.map": "/heeko-login/static/js/2.c0ab5aac.chunk.js.map",
+    "static/js/3.08a438c6.chunk.js": "/heeko-login/static/js/3.08a438c6.chunk.js",
+    "static/js/3.08a438c6.chunk.js.map": "/heeko-login/static/js/3.08a438c6.chunk.js.map",
+    "index.html": "/heeko-login/index.html",
+    "static/css/main.933134cc.chunk.css.map": "/heeko-login/static/css/main.933134cc.chunk.css.map",
+    "static/js/2.c0ab5aac.chunk.js.LICENSE.txt": "/heeko-login/static/js/2.c0ab5aac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bb18780.js",
+    "static/js/2.c0ab5aac.chunk.js",
+    "static/css/main.933134cc.chunk.css",
+    "static/js/main.207f1af4.chunk.js"
+  ]
+}

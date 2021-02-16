@@ -4,7 +4,7 @@ import "./ForgotPasswordComponent.css"
 
 const ForgotPasswordComponent = ({ handleForgotPassword }) => {
 
-    const backendUrl = 'http://localhost:4999'
+    const backendUrl = 'https://heeko-backend.herokuapp.com/'
     const [emailOrPhone, setemailOrPhone] = useState("")
 
     const [retrievedData, setRetrievedData] = useState({})

@@ -60,7 +60,7 @@ const ForgotPasswordComponent = ({ handleForgotPassword }) => {
                             <p><span className="retrieveDetailsSpan">Password:</span> {retrievedData.password}</p>
                         </div>
                         :
-                        <p>No Details matched</p>
+                        <p>No Details matched!</p>
                     }
                 </div>
             }

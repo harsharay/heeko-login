@@ -48,8 +48,11 @@ const Login = () => {
             .then(data => data.json())
             .then(json => {
                 setAuthDetails(json)
-                alert("Login successfull")
-
+                if(json.token.length > 0) {
+                    alert("Login successfull")
+                } else {
+                    alert("Wrong email/phone Number")
+                }
             })
         } else {
             alert("Wrong email/phone Number")

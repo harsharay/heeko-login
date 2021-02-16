@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/heeko-login/static/css/main.933134cc.chunk.css",
-    "main.js": "/heeko-login/static/js/main.207f1af4.chunk.js",
-    "main.js.map": "/heeko-login/static/js/main.207f1af4.chunk.js.map",
+    "main.js": "/heeko-login/static/js/main.8c0013f8.chunk.js",
+    "main.js.map": "/heeko-login/static/js/main.8c0013f8.chunk.js.map",
     "runtime-main.js": "/heeko-login/static/js/runtime-main.0bb18780.js",
     "runtime-main.js.map": "/heeko-login/static/js/runtime-main.0bb18780.js.map",
     "static/js/2.c0ab5aac.chunk.js": "/heeko-login/static/js/2.c0ab5aac.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0bb18780.js",
     "static/js/2.c0ab5aac.chunk.js",
     "static/css/main.933134cc.chunk.css",
-    "static/js/main.207f1af4.chunk.js"
+    "static/js/main.8c0013f8.chunk.js"
   ]
 }
